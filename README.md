@@ -38,7 +38,7 @@ cat file.ansi
 
 ## 💌 Credits
 Special thanks to:
-- [`gamebtw.ansi`](https://github.com/NNBnh/textarts/blob/main/gamebtw.ansi) and [`chess.ansi`](https://github.com/NNBnh/textarts/blob/main/chess.ansi) by [NNB](https://github.com/NNBnh) <sub>*you welcome*</sub>
+- [`gamebtw.ansi`](https://github.com/NNBnh/ansi/blob/main/gamebtw.ansi) and [`chess.ansi`](https://github.com/NNBnh/ansi/blob/main/chess.ansi) by [NNB](https://github.com/NNBnh) <sup>*you welcome*</sup>
 - From [**Stark's color scripts**](https://github.com/stark/Color-Scripts):
   - [`colorwheel.ansi`](http://crunchbang.org/forums/viewtopic.php?pid=288344#p288344) by [Bastien Dejean](https://github.com/baskerville)
   - [`illumina.ansi`](https://nixers.net/showthread.php?tid=1921) by [Venam](https://venam.nixers.net/blog)
