@@ -49,6 +49,13 @@ Special thanks to:
   - [`cassete.ansi`](https://pastebin.com/5GdwjhVD) by [UnixPornThrowaway](https://www.reddit.com/user/UnixPornThrowaway)
   - [`pacman-maze.ansi`](https://www.reddit.com/r/unixporn/comments/jisfcx/oc_pacman_prompt_anyone) by [The Mohawk Ninja](https://www.reddit.com/user/TheMohawkNinja)
 
+## 📢 Honorable Mention
+Here is a list of other ANSI gallerys:
+- [Roy/SAC Art Galleries](http://www.roysac.com/galleries.html)
+- [0w.nz: The textmode art of xeR0](http://0w.nz)
+- [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts)
+- [OS ANSI art](https://github.com/info-mono/os-ansi)
+
 ## 🔖 Resources
 ### 🖼️ Textart Gallerys
 - [Text Art](https://fsymbols.com/text-art) and [Small Simple Text Art](https://fsymbols.com/text-art/twitter)
@@ -56,9 +63,6 @@ Special thanks to:
 - [ASCII Art Archive](https://asciiart.eu)
 - [ASCII World](https://asciiworld.com)
 - [Christopher Johnson's ASCII Art Collection](https://asciiart.website)
-- [Roy/SAC Art Galleries](http://www.roysac.com/galleries.html)
-- [0w.nz: The textmode art of xeR0](http://0w.nz)
-- [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts)
 - [INT10h](https://int10h.org)
 - [NNB's classic textart collections](https://github.com/NNBnh/textart-collections)
 
@@ -78,8 +82,6 @@ Special thanks to:
 - [`rain.sh`](https://yjlv.blogspot.com/2013/07/let-it-rain.html): Rain terminal screensaver
 - [`falling-<3s.sh`](https://yjlv.blogspot.com/2011/02/time-to-have-falling-hearts-screensaver.html): Time to have Falling Hearts screensaver for geek’s terminal
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art
-
-<!-- ## 📢 Projects that can use ANSI art -->
 
 <br><br><br><br>
 
