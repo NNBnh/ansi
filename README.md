@@ -60,6 +60,7 @@ Special thanks to:
 - [0w.nz: The textmode art of xeR0](http://0w.nz)
 - [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts)
 - [INT10h](https://int10h.org)
+- [NNB's classic textart collections](https://github.com/NNBnh/textart-collections)
 
 ### 🔍 Character picker
 - [Unicode search](http://xahlee.info/comp/unicode_index.html)
