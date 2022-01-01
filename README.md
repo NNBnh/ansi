@@ -91,3 +91,5 @@ Here is a list of other ANSI gallerys:
 > <h1 align="center">Made with ❤️ by <a href="https://github.com/NNBnh"><i>NNB</i></a></h1>
 >
 > <p align="center"><a href="https://www.buymeacoffee.com/nnbnh"><img src="https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge" alt="Buy Me a Coffee"></a></p>
+>
+> <p align="right"><a href="https://github.com/adobe-type-tools/box-drawing#what-are-box-drawing-characters" title="Easter egg">🥚</a></p>
