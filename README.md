@@ -57,6 +57,9 @@ Here is a list of other ANSI gallerys:
 - [OS ANSI art](https://github.com/info-mono/os-ansi)
 
 ## 🔖 Resources
+
+[🦆 **What is textmode?**](http://polyducks.co.uk/what-is-textmode) by [Polyducks](https://twitter.com/Polyducks)
+
 ### 🖼️ Textart Gallerys
 - [Text Art](https://fsymbols.com/text-art) and [Small Simple Text Art](https://fsymbols.com/text-art/twitter)
 - [ASCII Art Gallery](https://textfancy.com/gallery)
