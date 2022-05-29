@@ -76,7 +76,6 @@ Here is a list of other ANSI gallerys:
 - [Emojipedia](https://emojipedia.org)
 
 ### 📟 Other textart scripts and tools
-- [REXPaint](https://www.gridsagegames.com/rexpaint): REXPaint is a powerful and user-friendly ASCII art editor.
 - [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts.
 - [FIGlet](http://www.figlet.org) and [TOIlet](https://github.com/cacalabs/toilet): Text banner generator.
 - [Chafa](https://hpjansson.org/chafa): Image to ASCII/ANSI converter.
@@ -85,6 +84,7 @@ Here is a list of other ANSI gallerys:
 - [`pipes.sh`](https://github.com/pipeseroni/pipes.sh): Animated pipes terminal screensaver.
 - [`rain.sh`](https://yjlv.blogspot.com/2013/07/let-it-rain.html): Rain terminal screensaver.
 - [`falling-<3s.sh`](https://yjlv.blogspot.com/2011/02/time-to-have-falling-hearts-screensaver.html): Time to have Falling Hearts screensaver for geek’s terminal.
+- [`arttime`](https://github.com/reportaman/arttime): Clock/timer that display text art.
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art.
 
 <br><br><br><br>
