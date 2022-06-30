@@ -3,6 +3,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/43980777/131212828-21d0f645-a742-4256-a6c4-d86758c34c00.png"></p>
 
 ## 💡 About
+
 From [Fsymbols](https://fsymbols.com/text-art):
 
 > **Text art**, also called ASCII art or keyboard art is a copy-pasteable digital age art form.
@@ -18,6 +19,7 @@ This is my personal collection of ANSI arts that I create and gather on [r/unixp
 > *NOTE: This collections will not include stand alone textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.*
 
 ## ⌨️ Usage
+
 First [download](https://github.com/NNBnh/ansi/archive/main.zip) or clone this repo:
 
 ```sh
@@ -37,6 +39,7 @@ cat file.ansi
 ```
 
 ## 💌 Credits
+
 Special thanks to:
 - [`gamebtw.ansi`](https://github.com/NNBnh/ansi/blob/main/gamebtw.ansi) and [`chess.ansi`](https://github.com/NNBnh/ansi/blob/main/chess.ansi) by [NNB](https://github.com/NNBnh) <sup>*you welcome*</sup>
 - From [**Stark's color scripts**](https://github.com/stark/Color-Scripts):
@@ -50,6 +53,7 @@ Special thanks to:
   - [`pacman-maze.ansi`](https://www.reddit.com/r/unixporn/comments/jisfcx/oc_pacman_prompt_anyone) by [The Mohawk Ninja](https://www.reddit.com/user/TheMohawkNinja)
 
 ## 📢 Honorable Mention
+
 Here is a list of other ANSI gallerys:
 - [Roy/SAC Art Galleries](http://www.roysac.com/galleries.html)
 - [0w.nz: The textmode art of xeR0](http://0w.nz)
@@ -61,21 +65,25 @@ Here is a list of other ANSI gallerys:
 [🦆 **What is textmode?**](http://polyducks.co.uk/what-is-textmode) by [Polyducks](https://twitter.com/Polyducks)
 
 ### 🖼️ Textart Gallerys
+
 - [Text Art](https://fsymbols.com/text-art) and [Small Simple Text Art](https://fsymbols.com/text-art/twitter)
 - [ASCII Art Gallery](https://textfancy.com/gallery)
 - [ASCII Art Archive](https://asciiart.eu)
 - [ASCII World](https://asciiworld.com)
 - [Christopher Johnson's ASCII Art Collection](https://asciiart.website)
 - [INT10h](https://int10h.org)
+- [Pokemon colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - [NNB's classic textart collections](https://github.com/NNBnh/textart-collections)
 
 ### 🔍 Character picker
+
 - [Unicode search](http://xahlee.info/comp/unicode_index.html)
 - [Symbols Emoji](https://fsymbols.com)
 - [Character picker](https://textfancy.com/characters)
 - [Emojipedia](https://emojipedia.org)
 
 ### 📟 Other textart scripts and tools
+
 - [Color Scripts](https://github.com/stark/Color-Scripts): User contributed color scripts.
 - [FIGlet](http://www.figlet.org) and [TOIlet](https://github.com/cacalabs/toilet): Text banner generator.
 - [Chafa](https://hpjansson.org/chafa): Image to ASCII/ANSI converter.
