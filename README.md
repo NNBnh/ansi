@@ -16,7 +16,7 @@ And from [Wikipedia](https://en.wikipedia.org/wiki/ANSI_art):
 
 This is my personal collection of ANSI arts that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn), [Stark's color scripts](https://github.com/stark/Color-Scripts) and other sources.
 
-> *NOTE: This collections will not include stand alone textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.*
+> **Note** This collections will not include stand alone textart that can be easily generated from pixel art, image, figlet,... or ASCII art with less than two colors.
 
 ## ⌨️ Usage
 
