@@ -94,6 +94,7 @@ Here is a list of other ANSI gallerys:
 - [`falling-<3s.sh`](https://yjlv.blogspot.com/2011/02/time-to-have-falling-hearts-screensaver.html): Time to have Falling Hearts screensaver for geek’s terminal.
 - [`arttime`](https://github.com/reportaman/arttime): Clock/timer that display text art.
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art.
+- [`trekscii`](https://github.com/k-vernooy/trekscii): A procedurally generated star trek ascii scene.
 
 <br><br><br><br>
 
