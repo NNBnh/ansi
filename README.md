@@ -95,6 +95,7 @@ Here is a list of other ANSI gallerys:
 - [`arttime`](https://github.com/reportaman/arttime): Clock/timer that display text art.
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art.
 - [`trekscii`](https://github.com/k-vernooy/trekscii): A procedurally generated star trek ascii scene.
+- [Emwave](https://github.com/info-mono/emwave): Emwave with custom string.
 
 <br><br><br><br>
 
