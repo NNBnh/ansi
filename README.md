@@ -12,7 +12,7 @@ From [Fsymbols](https://fsymbols.com/text-art):
 
 And from [Wikipedia](https://en.wikipedia.org/wiki/ANSI_art):
 
-> **ANSI art** is a computer art form. It is similar to ASCII art but also contains special [ANSI escape sequences](https://en.wikipedia.org/wiki/ANSI_escape_code).
+> **ANSI art** is a computer art form. It is similar to ASCII art but also contains special [ANSI escape sequences](https://wikipedia.org/wiki/ANSI_escape_code).
 
 This is my personal collection of ANSI arts that I create and gather on [r/unixporn](https://www.reddit.com/r/unixporn), [Stark's color scripts](https://github.com/stark/Color-Scripts) and other sources.
 
@@ -58,6 +58,7 @@ Here is a list of other ANSI gallerys:
 - [Roy/SAC Art Galleries](http://www.roysac.com/galleries.html)
 - [0w.nz: The textmode art of xeR0](http://0w.nz)
 - [Venam's ASCII/ANSI-Arts](https://github.com/venam/Ascii-Arts)
+- [Pokemon colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - [OS ANSI art](https://github.com/info-mono/os-ansi)
 
 ## 🔖 Resources
@@ -67,12 +68,10 @@ Here is a list of other ANSI gallerys:
 ### 🖼️ Textart Gallerys
 
 - [Text Art](https://fsymbols.com/text-art) and [Small Simple Text Art](https://fsymbols.com/text-art/twitter)
-- [ASCII Art Gallery](https://textfancy.com/gallery)
 - [ASCII Art Archive](https://asciiart.eu)
 - [ASCII World](https://asciiworld.com)
 - [Christopher Johnson's ASCII Art Collection](https://asciiart.website)
 - [INT10h](https://int10h.org)
-- [Pokemon colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts)
 - [NNB's classic textart collections](https://github.com/NNBnh/textart-collections)
 
 ### 🔍 Character picker
