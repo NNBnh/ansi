@@ -51,6 +51,7 @@ Special thanks to:
   - [`bonsai-tree.ansi`](https://git.bicompact.space/hazel/etc/src/branch/canon/bin/bonsai-tree) by [Hazel Levine](https://git.bicompact.space/hazel)
   - [`cassete.ansi`](https://pastebin.com/5GdwjhVD) by [UnixPornThrowaway](https://www.reddit.com/user/UnixPornThrowaway)
   - [`pacman-maze.ansi`](https://www.reddit.com/r/unixporn/comments/jisfcx/oc_pacman_prompt_anyone) by [The Mohawk Ninja](https://www.reddit.com/user/TheMohawkNinja)
+  - [`hot-air-balloon.ansi`](https://www.asciiart.eu/vehicles/other) originally by HJW, colorize by [NNB](https://github.com/NNBnh)
 
 ## 📢 Honorable Mention
 
