@@ -20,10 +20,10 @@ This is my personal collection of ANSI arts that I create and gather on [r/unixp
 
 ## ⌨️ Usage
 
-First [download](https://github.com/NNBnh/ansi/archive/main.zip) or clone this repo:
+First [download](https://codeberg.org/NNB/ansi/archive/main.zip) or clone this repo:
 
 ```sh
-git clone https://github.com/NNBnh/ansi.git
+git clone https://codeberg.org/NNB/ansi.git
 ```
 
 `cd` to `ansi` directory:
@@ -92,10 +92,16 @@ Here is a list of other ANSI gallerys:
 - [`bonsai.sh`](https://gitlab.com/jallbrit/bonsai.sh): Bonsai tree generator.
 - [`pipes.sh`](https://github.com/pipeseroni/pipes.sh): Animated pipes terminal screensaver.
 - [`rain.sh`](https://yjlv.blogspot.com/2013/07/let-it-rain.html): Rain terminal screensaver.
-- [`falling-<3s.sh`](https://yjlv.blogspot.com/2011/02/time-to-have-falling-hearts-screensaver.html): Time to have Falling Hearts screensaver for geek’s terminal.
+- [`falling-<3s.sh`](https://yjlv.blogspot.com/2011/02/time-to-have-falling-hearts-screensaver.html): Time to have Falling Hearts screensaver for geek's terminal.
 - [`arttime`](https://github.com/reportaman/arttime): Clock/timer that display text art.
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art.
 - [`trekscii`](https://github.com/k-vernooy/trekscii): A procedurally generated star trek ascii scene.
 - [Emwave](https://github.com/info-mono/emwave): Emwave with custom string.
 
-<a href="https://github.com/NNBnh"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0284C7&fontColor=F0F9FF&height=128&desc=Made%20with%20%26lt;3%20by%20NNB&descAlignY=80"/></a>
+<a href="https://nnb.codeberg.page">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0284C7&fontColor=F0F9FF&height=128&desc=Made%20with%20%26lt;3%20by%20NNB&descAlignY=80"
+    alt="Made with <3 by NNB"
+  />
+</a>
