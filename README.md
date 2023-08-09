@@ -66,6 +66,7 @@ Here is a list of other ANSI gallerys:
 
 - [What is textmode?](http://polyducks.co.uk/what-is-textmode) by [Polyducks](https://twitter.com/Polyducks)
 - [ASCII Art, Animation, and Utilities](https://github.com/doctorfree/Asciiville) by [Ronald Record](https://github.com/doctorfree)
+- [ANSI Escape Sequences](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797) by [Christian Petersen](https://github.com/fnky)
 
 ### 🖼️ Textart Gallerys
 
