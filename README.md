@@ -43,6 +43,7 @@ cat file.ansi
 Special thanks to:
 - [`gamebtw.ansi`](https://github.com/NNBnh/ansi/blob/main/gamebtw.ansi) and [`chess.ansi`](https://github.com/NNBnh/ansi/blob/main/chess.ansi) by [NNB](https://github.com/NNBnh) <sup>*you welcome*</sup>
 - From [**Stark's color scripts**](https://github.com/stark/Color-Scripts):
+  - [`colorbars.ansi`](https://gitlab.com/jschx/bin/-/blob/main/colorbars) by [Jschx](https://gitlab.com/jschx)
   - [`colorwheel.ansi`](http://crunchbang.org/forums/viewtopic.php?pid=288344#p288344) by [Bastien Dejean](https://github.com/baskerville)
   - [`illumina.ansi`](https://nixers.net/showthread.php?tid=1921) by [Venam](https://venam.nixers.net/blog)
   - [`pukeskull.ansi`](https://github.com/stark/Color-Scripts/blob/master/color-scripts/pukeskull) by [Xero](http://xero.nu)
@@ -97,7 +98,9 @@ Here is a list of other ANSI gallerys:
 - [`arttime`](https://github.com/reportaman/arttime): Clock/timer that display text art.
 - [ASCIIQuarium](https://robobunny.com/projects/asciiquarium/html): An aquarium/sea animation in ASCII art.
 - [`trekscii`](https://github.com/k-vernooy/trekscii): A procedurally generated star trek ascii scene.
+- [ColorStrip](https://github.com/info-mono/colorstrip): Color strip generator.
 - [Emwave](https://github.com/info-mono/emwave): Emwave with custom string.
+- [Colortest](https://github.com/info-mono/colortest): Customizable Colortest.
 
 <a href="https://nnb.codeberg.page">
   <img
